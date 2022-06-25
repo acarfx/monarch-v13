@@ -11,5 +11,7 @@ Amogus kurucusu kedy kardeşimle beraber namaza başladık.
 ...▄▀▀█▀▀▄
 ▐▌NAMAZ ▐█▄▄█▄▄▄▄▄▄▄▄▄▄
 ▐█▄───▄██▀▀█▀▀▀▀▀█▀█▀▀
-─▀██▄██▀────────█▀█▀█ Cennetin anahtarıdır,.
+─▀██▄██▀────────█▀█▀█ Cennetin anahtarıdır,
+
+Çilingirci varsa ulaşsın.
 ```
