@@ -6,7 +6,10 @@ Monarch sunucusunda kullandığım boş ve çoğu şeyi eksik olan bir bot payla
 İyi günlerde kullanmanız dileğiyle. Eksik yerlerini tamamlayacağınıza eminim birazcık çabalayın.
 
 Amogus kurucusu kedy kardeşimle beraber namaza başladık.
+
+```
 ...▄▀▀█▀▀▄
 ▐▌NAMAZ ▐█▄▄█▄▄▄▄▄▄▄▄▄▄
 ▐█▄───▄██▀▀█▀▀▀▀▀█▀█▀▀
 ─▀██▄██▀────────█▀█▀█ Cennetin anahtarıdır,.
+```
