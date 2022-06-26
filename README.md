@@ -8,10 +8,11 @@ Monarch sunucusunda kullandığım boş ve çoğu şeyi eksik olan bir bot payla
 Amogus kurucusu kedy kardeşimle beraber namaza başladık.
 
 ```
-.▄▀▀█▀▀▄
+ ▄▀▀█▀▀▄
 ▐▌NAMAZ ▐█▄▄█▄▄▄▄▄▄▄▄▄▄
-▐█▄───▄██▀▀█▀▀▀▀▀█▀█▀▀
-─▀██▄██▀────────█▀█▀█ Cennetin anahtarıdır,
-
+▐█▄   ▄██▀▀█▀▀▀▀▀█▀█▀▀
+ ▀██▄██▀        █▀█▀█ 
+ 
+Cennetin anahtarıdır,
 Çilingirci varsa ulaşsın.
 ```
