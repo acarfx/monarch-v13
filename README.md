@@ -5,6 +5,9 @@ Monarch sunucusunda kullandığım boş ve çoğu şeyi eksik olan bir bot payla
 Öncelikle eksikler ve sorunlar için sehira#0001 kardeşime yazabilirsiniz bu çocuk yanımda destek olan bir çocuktur ve emin ol bu işi yapan insanlardan daha çok bilgiye sahip ve yazmasını bilen bir insandır bana bot yaptırcak insanlar bana yaptırmak yerine bu çocuğa yaptırabilirler ve yanında çok sevdiğim Lafügüzaf#0001'da bulunuyor her ikisine de güvenebilirsiniz bana güvenmeyin onlara güvenin.
 İyi günlerde kullanmanız dileğiyle. Eksik yerlerini tamamlayacağınıza eminim birazcık çabalayın.
 
+Ekstra olaran **Sehira**'dan çalınan botlarda Ekonomi ve sonradan eklediği çoğu şey mevcuttur onlarıda sizlerle paylaştım Monarch olan sehiraya ilk attığım halidir.
+Sehira.rar olanda Sehira'nın düzenlediği halidir.
+
 Amogus kurucusu kedy kardeşimle beraber namaza başladık.
 
 ```
