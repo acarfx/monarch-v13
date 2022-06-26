@@ -6,7 +6,9 @@ Monarch sunucusunda kullandığım boş ve çoğu şeyi eksik olan bir bot payla
 İyi günlerde kullanmanız dileğiyle. Eksik yerlerini tamamlayacağınıza eminim birazcık çabalayın.
 
 Ekstra olaran **Sehira**'dan çalınan botlarda Ekonomi ve sonradan eklediği çoğu şey mevcuttur onlarıda sizlerle paylaştım Monarch olan sehiraya ilk attığım halidir.
-Sehira.rar olanda Sehira'nın düzenlediği halidir.
+se7en.rar olanda Sehira'nın düzenlediği ve çalınan halidir.
+
+Ekonomi sistemini ve diğer düzeltmeleri kendi yapmıştır hataları illaki vardır. İyi günlerde kullanın!
 
 Amogus kurucusu kedy kardeşimle beraber namaza başladık.
 
