@@ -1,4 +1,7 @@
 # Monarch v13
+
+**NOT:** Node sürümü 17 veya 16 ise mongoose sürümünü npm install mongoose@16.0.12 olarak düzeltin aksi taktirde veri kaydetmez.
+
 Merhabalar!
 
 Monarch sunucusunda kullandığım boş ve çoğu şeyi eksik olan bir bot paylaşıcağım çoğu kişinin beklediği o botlardan biri değil ama çoluk çocuk vds firmasında köpeklik yaparak dilenerek vds firmamızdan çalıp elinde oyuncak etmesi yerine burdaki herkesin kullanmasını daha uygun gördüm.
