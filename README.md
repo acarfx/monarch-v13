@@ -1,6 +1,6 @@
 # Monarch v13
 
-**NOT:** Node sürümü 17 veya 16 ise mongoose sürümünü npm install mongoose@16.0.12 olarak düzeltin aksi taktirde veri kaydetmez.
+**NOT:** Node sürümü 17 veya 16 ise mongoose sürümünü npm install mongoose@6.0.12 olarak düzeltin aksi taktirde veri kaydetmez.
 
 Merhabalar!
 
